@@ -15,7 +15,7 @@ Predicting the strength of concrete is a critical task in the field of civil eng
 - Utilizes a machine learning model to predict concrete strength
 - Incorporates TensorFlow and Pandas libraries for data processing and model training
 - Includes a user-friendly graphical interface built with Tkinter for easy interaction
-- Has 7 input variables for a higher degree of precision
+- Has 8 input variables for a higher degree of precision
 
 ## Ensure you have the following dependencies installed:
 - TensorFlow: [Installation Guide](https://www.tensorflow.org/install)
