@@ -24,7 +24,7 @@ Predicting the strength of concrete is a critical task in the field of civil eng
 
 ## Usage
 
-- Launch the application by running the `concrete_strength_predictor.py` script.
+- Launch the application by running the `main.py` script.
 
 - Enter the required input parameters such as cement, water, aggregate, etc in the provided fields
 
